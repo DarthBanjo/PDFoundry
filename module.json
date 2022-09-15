@@ -33,6 +33,6 @@
     "compatibleCoreVersion": "10",
     "minimumCoreVersion": "9",
     "manifest": "https://raw.githubusercontent.com/DarthBanjo/PDFoundry/master/module.json",
-    "download": "https://github.com/Djphoenix719/PDFoundry/releases/download/v0.9.6/pdfoundry-v0.9.6.zip",
+    "download": "https://github.com/DarthBanjo/PDFoundry/archive/refs/heads/master.zip",
     "url": "https://github.com/DarthBanjo/PDFoundry"
 }
